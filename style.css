@@ -75,7 +75,7 @@ body {
 
 .tarros img {
     width: 100%;
-    animation: 1.5s bounceInDown .5s;
+    animation: 1.5s bounceInDown;
     animation-fill-mode: backwards;
     z-index: 2;
 }
