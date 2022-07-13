@@ -38,7 +38,7 @@ header {
 header img {
     max-width: 90%;
     width: 400px;
-    animation: zoomInDown ease-out .5s backwards;
+    animation: 2s zoomInDown ease-out .5s backwards;
 }
 
 main {
